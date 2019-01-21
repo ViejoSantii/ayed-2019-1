@@ -1,5 +1,4 @@
 import json
-from sys import stdin
 def hanoi1(n ,inicio, aux, final):
     if n==1:
         print(inicio, "->", final)

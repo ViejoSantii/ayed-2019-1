@@ -1,4 +1,5 @@
 from sys import stdin
+
 def search(arreglo,n,a):
     inicio = 0
     final = len(arreglo)
